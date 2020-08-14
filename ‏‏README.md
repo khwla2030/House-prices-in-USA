@@ -78,7 +78,7 @@ https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 |Electrical|object|train|Electrical system|
 |1stFlrSF|int|train|First Floor square feet|
 |2ndFlrSF|int|train|Second floor square feet|
-|LowQualFinSF|train|df|Low quality finished square feet (all floors)|
+|LowQualFinSF|train|train|Low quality finished square feet (all floors)|
 |GrLivArea|int|train|Above grade (ground) living area square feet|
 |BsmtFullBath|int|train|Basement full bathrooms|
 |BsmtHalfBath|int|train|Basement half bathrooms|
