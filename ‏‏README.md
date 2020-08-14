@@ -7,7 +7,7 @@
 
 ## Table of Contents
 * [Problem Statement](#Problem-Statement)
-* [Datasets Description](#Datasets Description)
+* [Datasets Description](#Datasets-Description)
 * [Conclusion](#Conclusion)
 * [Reference](#Reference)
 
@@ -25,7 +25,7 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 
 
 
-## Datasets Description <a name="Datasets Description"></a>
+## Datasets Description <a name="Datasets-Description"></a>
 
 This is the link to the dataset used for this project:
 
@@ -33,9 +33,7 @@ https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
 |Feature|Type|Dataset|Description|
 |---|---|---|---|
-
 |Id|int|train|Id of the house|
-
 |MSSubClass|int|train|Identifies the type of dwelling involved in the sale|
 |MSZoning|object|train|Identifies the general zoning classification of the sale|
 |LotFrontage|float|train|Linear feet of street connected to property|
@@ -56,10 +54,6 @@ https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 |OverallCond|int|train|Rates the overall condition of the house|
 |YearBuilt|int|train|Original construction date|
 |YearRemodAdd|int|train|Remodel date (same as construction date if no remodeling or additions)|
-
-
-
-
 |RoofStyle|object|train|Type of roof|
 |RoofMatl|object|train|Roof material|
 |Exterior1st|object|train|Exterior covering on house|
