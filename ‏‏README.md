@@ -89,7 +89,6 @@ https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 |KitchenQual|object|train|Kitchen quality|
 |TotRmsAbvGrd|int|train|Total rooms above grade (does not include bathrooms)|
 |Functional|object|train|Home functionality (Assume typical unless deductions are warranted)|
-
 |Fireplaces|int|train|Number of fireplaces|
 |FireplaceQu|object|train|Fireplace quality|
 |GarageType|object|train|Garage location|
@@ -114,12 +113,6 @@ https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 |YrSold|int|train|Year Sold (YYYY)|
 |SaleType|object|train|Type of sale|
 |SaleCondition|object|train|Condition of sale|
-
-
-
-
-
-
 
 
 
